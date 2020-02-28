@@ -1,5 +1,5 @@
 # Cracking the coding interview
-Problems from my YouTube channel to crack the code interview
+Problems from my YouTube channel to crack the coding interview
 
 ![Cracking the coding interview](https://i.pinimg.com/originals/5c/8e/8b/5c8e8b0ff1e562a62bcc5c75287165ff.jpg "Cracking the coding interview")
 
